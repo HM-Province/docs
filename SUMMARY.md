@@ -10,3 +10,7 @@
 
 * [Основное](api/general.md)
 * [Коды ошибок](api/kody-oshibok.md)
+
+## API маршруты и структуры <a href="#api-routes" id="api-routes"></a>
+
+* [Users](api-routes/users.md)
