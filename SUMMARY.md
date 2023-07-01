@@ -4,9 +4,10 @@
 
 ## ❓ Информация <a href="#info" id="info"></a>
 
-* [💊 Медикаменты](info/medikamenty.md)
+* [🧑🎓 Установка биндов](info/binds.md)
+* [💊 Медикаменты](info/med.md)
 
 ## 🧰 Панель управления <a href="#dash" id="dash"></a>
 
-* [📃 Общие понятия](dash/obshie-ponyatiya.md)
+* [📃 Общие понятия](dash/gen.md)
 * [✍ Отыгровки](dash/actions.md)
