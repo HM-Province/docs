@@ -1,5 +1,8 @@
 ---
 description: Подробная информация по добавлению отыгровок
+cover: >-
+  https://images.unsplash.com/photo-1526398977052-654221a252b1?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwxMHx8dGFsa3xlbnwwfHx8fDE2ODgyMDM2ODJ8MA&ixlib=rb-4.0.3&q=85
+coverY: 0
 ---
 
 # ✍ Отыгровки

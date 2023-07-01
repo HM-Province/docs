@@ -1,5 +1,8 @@
 ---
 description: Список препаратов для лечения заболева
+cover: >-
+  https://images.unsplash.com/photo-1628771065518-0d82f1938462?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwxfHxwaWxsfGVufDB8fHx8MTY4ODIwMzY1OHww&ixlib=rb-4.0.3&q=85
+coverY: 0
 ---
 
 # 💊 Медикаменты
