@@ -10,4 +10,5 @@
 ## 🧰 Панель управления <a href="#dash" id="dash"></a>
 
 * [📃 Общие понятия](dash/gen.md)
+* [👁 Иконки](dash/icons.md)
 * [✍ Отыгровки](dash/actions.md)
