@@ -1,5 +1,8 @@
 ---
 description: Иногда нужно указывать иконки, это краткое руководство как их брать.
+cover: >-
+  https://images.unsplash.com/photo-1506729623306-b5a934d88b53?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw4fHxpY29ufGVufDB8fHx8MTY4ODgxNzM4MHww&ixlib=rb-4.0.3&q=85
+coverY: 0
 ---
 
 # 👁 Иконки
