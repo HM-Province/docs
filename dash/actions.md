@@ -73,10 +73,10 @@ coverY: 0
 
 <summary>Цвета комментариев</summary>
 
-* r - Красный
-* g - Зелёный
+* r - Красный (Для плохого исхода)
+* g - Зелёный (Для хорошего исхода)
 * y - Жёлтый
-* p - Основной цвет сайта
+* p - Основной цвет сайта (Для любого случая)
 * pi - Розовый
 * i - Индиго
 * c - Голубой
@@ -113,7 +113,7 @@ me пожа{g1} руку Олегу
 
 Необходимо понять, что это переменная, для этого используются **{}**, в которых указывается имя переменной.
 
-<table><thead><tr><th width="124">Пол</th><th width="58">g1</th><th width="76">g2</th><th width="64">g3</th><th width="62">g4</th><th width="66">g5</th><th width="64">g6</th><th width="71">g7</th><th>g8</th></tr></thead><tbody><tr><td><strong>Мужской</strong></td><td>л</td><td>ёс</td><td>ил</td><td>р</td><td>к</td><td>ся</td><td>ёл</td><td>ёл</td></tr><tr><td><strong>Женский</strong></td><td>ла</td><td>ёсла</td><td>ила</td><td>рла</td><td>кла</td><td>ась</td><td>ла</td><td>ела</td></tr></tbody></table>
+<table><thead><tr><th width="124">Пол</th><th width="58">g1</th><th width="76">g2</th><th width="64">g3</th><th width="62">g4</th><th width="66">g5</th><th width="64">g6</th><th width="71">g7</th><th>g8</th></tr></thead><tbody><tr><td><strong>Мужской</strong></td><td>л</td><td>ёс</td><td>ил</td><td>р</td><td>к</td><td>ся</td><td>ёл</td><td>ёл</td></tr><tr><td><strong>Женский</strong></td><td>ла</td><td>есла</td><td>ила</td><td>рла</td><td>кла</td><td>ась</td><td>ла</td><td>ела</td></tr></tbody></table>
 
 ```
 me полож{g3} конфету на стол
